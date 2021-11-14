@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counting App</string>
+    <string name="click_me">Click To Count</string>
+    <string name="hey_check_this_text_change_soon">Hey Check \nThis \nText Change Soon</string>
+</resources>
