@@ -28,9 +28,9 @@
   ## Projects
   
   1. **People Counter App**
-  - [ ] [Click to check project Repo]() 
+      - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/CountingApp) 
 
-<img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/67772c63134bb55c348c42f60098c8741bccf8b8/Resources/Counting%20App.gif">
+        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/67772c63134bb55c348c42f60098c8741bccf8b8/Resources/Counting%20App.gif">
 
 
 ## 👨‍💻 Our valuable Contributors
