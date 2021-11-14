@@ -20,13 +20,7 @@
 1. **Setting Up Android Studio and AVD**
     - [ ] [Click to see the complete step by step guide](https://github.com/Mimo2k/Android-Development/blob/8ffe3183a1d9f5b92dd8549944c5ab2e5976c285/Setting%20up%20Android%20Studio%20and%20Avd/Setting%20Up%20Android%20Studio%20and%20Avd.pdf)
 
-2. **Learn Kotlin**  
-    - [ ]  Datatypes
-    - [ ]  Collection 
-    - [ ]  Control Flow 
-    - [ ]  OOPS concept
-    - [ ]  Functions
-    - [ ]  Coroutines
+
 
 
 ## 👨‍💻 Our valuable Contributors
