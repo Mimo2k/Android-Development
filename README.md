@@ -1,7 +1,10 @@
 
 ![banner image](https://github.com/Mimo2k/Android-Development/blob/1ceedea76a15633439b95f1c860c582fc3b5717a/Resources/Banner.png)
+<div align="center">
 
-# Android Development with Kotlin
+  # Android Development with Kotlin
+
+</div>
 
 
 <div align="center">
@@ -12,7 +15,8 @@
 <a href="https://github.com/Mimo2k/Android-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Android-Development?color=2b9348"></a>
 <br />
 <br />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
+  <img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
   </div>
   
   ## Roadmap
