@@ -35,3 +35,8 @@ This project exists thanks to all the **people who contribute**.
 
 ![Contributors](https://contributors-img.web.app/image?repo=Mimo2k/Android-Development)
 
+
+## 📜 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Mimo2k
+
