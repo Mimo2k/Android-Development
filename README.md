@@ -12,7 +12,7 @@
 <a href="https://github.com/Mimo2k/Android-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Android-Development?color=2b9348"></a>
 <br />
 <br />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
   </div>
   
   ## Roadmap
