@@ -1,7 +1,10 @@
 
 ![banner image](https://github.com/Mimo2k/Android-Development/blob/1ceedea76a15633439b95f1c860c582fc3b5717a/Resources/Banner.png)
+<div align="center">
 
-# Android Development with Kotlin
+  # Android Development with Kotlin
+
+</div>
 
 
 <div align="center">
