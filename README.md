@@ -25,11 +25,12 @@
     - [ ] [Click to see the complete step by step guide](https://github.com/Mimo2k/Android-Development/blob/8ffe3183a1d9f5b92dd8549944c5ab2e5976c285/Setting%20up%20Android%20Studio%20and%20Avd/Setting%20Up%20Android%20Studio%20and%20Avd.pdf)
 2. **Kotlin**
     - [ ] Kotlin Fundamentals
-        - [ ] Program to Print name
-        - [ ] Variables and Diffrence between Val and Var
-        - [ ] Storing name in var and printing it
-        - [ ] Data Type of Numbers
-        - [ ] Floating Type
+        - [ ] [Program to Print name](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/printingName.kt)
+        - [ ] [Diffrence between Val and Var](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/VarVsVal.kt)
+        - [ ] [Declaration and Initialization in Kotlin](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DeclarationVsInitialization.kt)
+        - [ ] [Storing name in val and printing it](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/stringInVal.kt)
+        - [ ] [Data Type of Numbers](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DataTypeOfNumbers.kt)
+        - [ ] Specifying Number Data Types
         - [ ] Character and String
         - [ ] Boolean
         - [ ] Accessing char from String
