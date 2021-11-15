@@ -23,8 +23,34 @@
 
 1. **Setting Up Android Studio and AVD**
     - [ ] [Click to see the complete step by step guide](https://github.com/Mimo2k/Android-Development/blob/8ffe3183a1d9f5b92dd8549944c5ab2e5976c285/Setting%20up%20Android%20Studio%20and%20Avd/Setting%20Up%20Android%20Studio%20and%20Avd.pdf)
+2. **Kotlin**
+    - [ ] Kotlin Fundamentals
+        - [ ] Program to Print name
+        - [ ] Variables and Diffrence between Val and Var
+        - [ ] Storing name in var and printing it
+        - [ ] Data Type of Numbers
+        - [ ] Floating Type
+        - [ ] Character and String
+        - [ ] Boolean
+        - [ ] Accessing char from String
+        - [ ] Finding Length of string
+        - [ ] String interpolation and string template
+        - [ ] Operators
+          - [ ] Arithematic Operators
+          - [ ] Comparison Operator
+          - [ ] Assignment Operator
+          - [ ] Increment/Decrement Operator
+        - [ ] If Else
+        - [ ] When Expression
 
 
+  ## Projects
+  
+  1. **People Counter App**
+      - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/CountingApp) 
+
+        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/67772c63134bb55c348c42f60098c8741bccf8b8/Resources/Counting%20App.gif">
+             
 
 
 ## 👨‍💻 Our valuable Contributors
