@@ -56,7 +56,7 @@
      
    ## Online Kotlin IDE
       
-      https://replit.com/languages/kotlin
+      https://developer.android.com/training/kotlinplayground
 
 
 ## 👨‍💻 Our valuable Contributors
