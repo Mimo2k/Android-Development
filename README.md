@@ -32,7 +32,7 @@
         - [ ] [Storing name in val and printing it](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/stringInVal.kt)
         - [ ] [Data Type of Numbers](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DataTypeOfNumbers.kt)
         - [ ] [Specifying Number Data Types](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/specifyDataType.kt)
-        - [ ] [Character and String](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/charAndString.kt)
+        - [ ] [Character and String]()
         - [ ] Boolean
         - [ ] Accessing char from String
         - [ ] Finding Length of string
