@@ -29,19 +29,15 @@
         - [ ] [Program to Print name](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/printingName.kt)
         - [ ] [Diffrence between Val and Var](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/VarVsVal.kt)
         - [ ] [Declaration and Initialization in Kotlin](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DeclarationVsInitialization.kt)
-        - [ ] [Storing name in val and printing it](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/stringInVal.kt)
+        - [ ] [Storing name in val](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/stringInVal.kt)
         - [ ] [Data Type of Numbers](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DataTypeOfNumbers.kt)
         - [ ] [Specifying Number Data Types](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/specifyDataType.kt)
         - [ ] [Character and String](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/charAndString.kt)
         - [ ] [Boolean](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/boolean.kt)
         - [ ] [Accessing char from String](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/accessChar.kt)
         - [ ] [Finding Length of string](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/stringLength.kt)
-        - [ ] String interpolation and string template
-        - [ ] Operators
-          - [ ] Arithematic Operators
-          - [ ] Comparison Operator
-          - [ ] Assignment Operator
-          - [ ] Increment/Decrement Operator
+        - [ ] [String interpolation and string template](https://github.com/Mimo2k/Android-Development/blob/6acb9986842e14186fd63703f94a808a62a55e43/Kotlin/Kotlin%20Fundamentals/strIntandTemp.kt)
+        - [ ] Basic operator's in Kotlin
         - [ ] If Else
         - [ ] When Expression
 
