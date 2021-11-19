@@ -37,7 +37,7 @@
         - [ ] [Accessing char from String](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/accessChar.kt)
         - [ ] [Finding Length of string](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/stringLength.kt)
         - [ ] [String interpolation and string template](https://github.com/Mimo2k/Android-Development/blob/6acb9986842e14186fd63703f94a808a62a55e43/Kotlin/Kotlin%20Fundamentals/strIntandTemp.kt)
-        - [ ] Basic operator's in Kotlin
+        - [ ] [Basic operator's in Kotlin](https://github.com/Mimo2k/Android-Development/blob/073d69691cb9a21b1c2614d170a2fece270d390b/Kotlin/Kotlin%20Fundamentals/Operators.kt)
         - [ ] If Else
         - [ ] When Expression
 
