@@ -33,9 +33,9 @@
         - [ ] [Data Type of Numbers](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DataTypeOfNumbers.kt)
         - [ ] [Specifying Number Data Types](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/specifyDataType.kt)
         - [ ] [Character and String](https://github.com/Mimo2k/Android-Development/blob/4de74ff348be35e17158ae9a52943badf3d32f01/Kotlin/Kotlin%20Fundamentals/charAndString.kt)
-        - [ ] Boolean
-        - [ ] Accessing char from String
-        - [ ] Finding Length of string
+        - [ ] [Boolean](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/boolean.kt)
+        - [ ] [Accessing char from String](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/accessChar.kt)
+        - [ ] [Finding Length of string](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/stringLength.kt)
         - [ ] String interpolation and string template
         - [ ] Operators
           - [ ] Arithematic Operators
