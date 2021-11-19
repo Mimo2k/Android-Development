@@ -44,7 +44,7 @@
         - [ ] [Do While loop](https://github.com/Mimo2k/Android-Development/blob/d6a0eb71c53c6fc63c39b0f15466c8b9dc1fe75f/Kotlin/Kotlin%20Fundamentals/doWhileLoop.kt)
         - [ ] [For loop](https://github.com/Mimo2k/Android-Development/blob/d6a0eb71c53c6fc63c39b0f15466c8b9dc1fe75f/Kotlin/Kotlin%20Fundamentals/forLoop.kt)
         - [ ] [Break and Continue](https://github.com/Mimo2k/Android-Development/blob/d6a0eb71c53c6fc63c39b0f15466c8b9dc1fe75f/Kotlin/Kotlin%20Fundamentals/breakAndContinue.kt)
-        - [ ] [Function's]()
+        - [ ] [Basic's of Function's](https://github.com/Mimo2k/Android-Development/blob/62743d77b5a92f90fccb23d05d4ee31c26029cd0/Kotlin/Kotlin%20Fundamentals/Function.kt)
 
 
   ## Projects
