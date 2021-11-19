@@ -37,11 +37,7 @@
         - [ ] [Accessing char from String](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/accessChar.kt)
         - [ ] [Finding Length of string](https://github.com/Mimo2k/Android-Development/blob/07d4e70048469d77ec2d036481f8b9257e9ad4c2/Kotlin/Kotlin%20Fundamentals/stringLength.kt)
         - [ ] [String interpolation and string template](https://github.com/Mimo2k/Android-Development/blob/6acb9986842e14186fd63703f94a808a62a55e43/Kotlin/Kotlin%20Fundamentals/strIntandTemp.kt)
-        - [ ] Operators
-          - [ ] Arithematic Operators
-          - [ ] Comparison Operator
-          - [ ] Assignment Operator
-          - [ ] Increment/Decrement Operator
+        - [ ] Basic operator's in Kotlin
         - [ ] If Else
         - [ ] When Expression
 
