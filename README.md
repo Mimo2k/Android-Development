@@ -47,6 +47,7 @@
         - [ ] [Basic's of Function's](https://github.com/Mimo2k/Android-Development/blob/62743d77b5a92f90fccb23d05d4ee31c26029cd0/Kotlin/Kotlin%20Fundamentals/Function.kt)
         - [ ] [Nullable in Kotlin](https://github.com/Mimo2k/Android-Development/blob/4554491581e736afc7ddfb6fdc2524bdf9cf6447/Kotlin/Kotlin%20Fundamentals/nullable.kt)
     - [ ] [Object Oriented Programming Basics](https://github.com/Mimo2k/Android-Development/tree/main/Kotlin/OOPs%20Basic)
+        - [ ] [Member Variable - Method's and Constructor](https://github.com/Mimo2k/Android-Development/blob/5e99b6d7a21bb3b651bfc566e39023dd6c55d12d/Kotlin/OOPs%20Basic/funConConcepts.kt)
 
   ## Projects
   
