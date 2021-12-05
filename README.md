@@ -50,7 +50,9 @@
         
     - [ ] [Object Oriented Programming Basics](https://github.com/Mimo2k/Android-Development/tree/main/Kotlin/OOPs%20Basic)
         
+        - [ ] [Classes, object and Initializer](https://github.com/Mimo2k/Android-Development/blob/72efd359dcca4a2b4fd308f5a7c3419b774bcabb/Kotlin/OOPs%20Basic/classObjIntializerMethod.kt)
         - [ ] [Member Variable - Method's and Constructor](https://github.com/Mimo2k/Android-Development/blob/5e99b6d7a21bb3b651bfc566e39023dd6c55d12d/Kotlin/OOPs%20Basic/funConConcepts.kt)
+        
 
   ## Projects
   
