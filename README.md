@@ -26,6 +26,7 @@
 2. **Kotlin**
      
       - [ ] [Kotlin Fundamentals](https://github.com/Mimo2k/Android-Development/tree/main/Kotlin/Kotlin%20Fundamentals)
+        
         - [ ] [Program to Print name](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/printingName.kt)
         - [ ] [Diffrence between Val and Var](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/VarVsVal.kt)
         - [ ] [Declaration and Initialization in Kotlin](https://github.com/Mimo2k/Android-Development/blob/cd0f0fbc513c3b5b938a4b8e4413044127509414/Kotlin/Kotlin%20Fundamentals/DeclarationVsInitialization.kt)
@@ -46,7 +47,10 @@
         - [ ] [Break and Continue](https://github.com/Mimo2k/Android-Development/blob/d6a0eb71c53c6fc63c39b0f15466c8b9dc1fe75f/Kotlin/Kotlin%20Fundamentals/breakAndContinue.kt)
         - [ ] [Basic's of Function's](https://github.com/Mimo2k/Android-Development/blob/62743d77b5a92f90fccb23d05d4ee31c26029cd0/Kotlin/Kotlin%20Fundamentals/Function.kt)
         - [ ] [Nullable in Kotlin](https://github.com/Mimo2k/Android-Development/blob/4554491581e736afc7ddfb6fdc2524bdf9cf6447/Kotlin/Kotlin%20Fundamentals/nullable.kt)
+        
     - [ ] [Object Oriented Programming Basics](https://github.com/Mimo2k/Android-Development/tree/main/Kotlin/OOPs%20Basic)
+        
+        - [ ] [Member Variable - Method's and Constructor](https://github.com/Mimo2k/Android-Development/blob/5e99b6d7a21bb3b651bfc566e39023dd6c55d12d/Kotlin/OOPs%20Basic/funConConcepts.kt)
 
   ## Projects
   
