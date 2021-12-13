@@ -53,6 +53,7 @@
         - [ ] [Classes, object and Initializer](https://github.com/Mimo2k/Android-Development/blob/72efd359dcca4a2b4fd308f5a7c3419b774bcabb/Kotlin/OOPs%20Basic/classObjIntializerMethod.kt)
         - [ ] [Member Variable - Method's and Constructor](https://github.com/Mimo2k/Android-Development/blob/5e99b6d7a21bb3b651bfc566e39023dd6c55d12d/Kotlin/OOPs%20Basic/funConConcepts.kt)
         - [ ] [Data class](https://github.com/Mimo2k/Android-Development/blob/7452fa5372f587f54db2fe1d34f552c81415ef33/Kotlin/OOPs%20Basic/dataClass.kt)
+        - [ ] [Inheritance](https://github.com/Mimo2k/Android-Development/blob/1201ba3dbba3b506afb9f05d1f9efc73e5e0f3af/Kotlin/OOPs%20Basic/inheritance.kt)
         
 
   ## Projects
