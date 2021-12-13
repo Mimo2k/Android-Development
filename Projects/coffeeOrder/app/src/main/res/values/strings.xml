@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coffe Ordering App</string>
+    <string name="app_name">Coffee Ordering App</string>
     <string name="quantity">Quantity</string>
     <string name="order">Order</string>
     <string name="just_place_the_order_bill_will_be_generated_here">just place the order bill will be generated here</string>
