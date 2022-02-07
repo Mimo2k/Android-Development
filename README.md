@@ -55,6 +55,9 @@
         - [ ] [Data class](https://github.com/Mimo2k/Android-Development/blob/7452fa5372f587f54db2fe1d34f552c81415ef33/Kotlin/OOPs%20Basic/dataClass.kt)
         - [ ] [Inheritance](https://github.com/Mimo2k/Android-Development/blob/1201ba3dbba3b506afb9f05d1f9efc73e5e0f3af/Kotlin/OOPs%20Basic/inheritance.kt)
         
+    - [ ] [More Kotlin Fundamental's](https://github.com/Mimo2k/Android-Development/tree/main/Kotlin/Kotlin%20Intermediate)
+        
+        - [ ] [Array in Kotlin](https://github.com/Mimo2k/Android-Development/blob/6f384c3222744537b0235f4f31a0688e8e201e3d/Kotlin/Kotlin%20Intermediate/arrays%20in%20Kotlin.kt)
 
   ## Projects
   
