@@ -16,7 +16,9 @@ class MainActivity : AppCompatActivity() {
 
         val myArrayList = ArrayList<String>()
         var myString:String = ""
+        var mainString:String = ""
         var operator = true
+        var dot = false
 
 
 
@@ -38,22 +40,34 @@ class MainActivity : AppCompatActivity() {
 
         btn7.setOnClickListener {
 
-            Toast.makeText(this,"7 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "7"
+            operator = false
+            input.text = myString
         }
 
         btn8.setOnClickListener {
-
-            Toast.makeText(this,"8 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "8"
+            operator = false
+            input.text = myString
         }
 
         btn9.setOnClickListener {
+            myString += "9"
+            operator = false
+            input.text = myString
 
-            Toast.makeText(this,"9 Clicked",Toast.LENGTH_SHORT).show()
         }
 
         btnDiv.setOnClickListener {
-
-            Toast.makeText(this,"/ Clicked",Toast.LENGTH_SHORT).show()
+           if(!operator) {
+              myString += "/"
+               input.text = myString
+               operator = true
+               dot = false
+           }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+           }
 
         }
 
@@ -69,19 +83,33 @@ class MainActivity : AppCompatActivity() {
         /* Click Listener's */
 
         btn4.setOnClickListener {
-            Toast.makeText(this,"4 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "4"
+            operator = false
+            input.text = myString
         }
 
         btn5.setOnClickListener {
-            Toast.makeText(this,"5 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "5"
+            operator = false
+            input.text = myString
         }
 
         btn6.setOnClickListener {
-            Toast.makeText(this,"6 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "6"
+            operator = false
+            input.text = myString
         }
 
         btnMul.setOnClickListener {
-            Toast.makeText(this,"* Clicked",Toast.LENGTH_SHORT).show()
+            if(!operator) {
+                myString += "*"
+                input.text = myString
+                operator = true
+                dot = false
+            }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
         }
 
 
@@ -96,19 +124,33 @@ class MainActivity : AppCompatActivity() {
         /* Click Listener's */
 
         btn1.setOnClickListener {
-            Toast.makeText(this,"1 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "1"
+            operator = false
+            input.text = myString
         }
 
         btn2.setOnClickListener {
-            Toast.makeText(this,"2 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "2"
+            operator = false
+            input.text = myString
         }
 
         btn3.setOnClickListener {
-            Toast.makeText(this,"3 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "3"
+            operator = false
+            input.text = myString
         }
 
         btnSub.setOnClickListener {
-            Toast.makeText(this,"- Clicked",Toast.LENGTH_SHORT).show()
+            if(!operator) {
+                myString += "-"
+                input.text = myString
+                operator = true
+                dot = false
+            }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
         }
 
 
@@ -123,19 +165,44 @@ class MainActivity : AppCompatActivity() {
         /* Click Listener's */
 
         btn0.setOnClickListener {
-            Toast.makeText(this,"0 Clicked",Toast.LENGTH_SHORT).show()
+            myString += "0"
+            operator = false
+            input.text = myString
         }
 
         btnDot.setOnClickListener {
-            Toast.makeText(this,". Clicked",Toast.LENGTH_SHORT).show()
+            if(!dot){
+                myString += "."
+                dot = true
+                input.text = myString
+
+            }else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
         }
 
         btnMod.setOnClickListener {
-            Toast.makeText(this,"% Clicked",Toast.LENGTH_SHORT).show()
+            if(!operator) {
+                myString += "%"
+                input.text = myString
+                operator = true
+                dot = false
+            }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
         }
 
         btnAdd.setOnClickListener {
-            Toast.makeText(this,"+ Clicked",Toast.LENGTH_SHORT).show()
+            if(!operator) {
+                myString += "+"
+                input.text = myString
+                operator = true
+                dot = false
+            }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
         }
 
         /* Row  5 */
@@ -148,15 +215,30 @@ class MainActivity : AppCompatActivity() {
         /* Click Listener's */
 
         btnClr.setOnClickListener {
-            Toast.makeText(this,"clr Clicked",Toast.LENGTH_SHORT).show()
+            myString = ""
+            input.text = myString
+            output.text = myString
+            operator = true
+            dot = false
         }
 
         btnBack.setOnClickListener {
-            Toast.makeText(this,"<- Clicked",Toast.LENGTH_SHORT).show()
+            myString = myString.dropLast(1)
+            input.text = myString
         }
 
         btnEqual.setOnClickListener {
-            Toast.makeText(this,"= Clicked",Toast.LENGTH_SHORT).show()
+            if(!operator) {
+               val exp = ExpressionBuilder(myString).build()
+                val res = exp.evaluate()
+                output.text = res.toString()
+                myString = res.toString()
+                operator = false
+
+            }
+            else{
+                Toast.makeText(this,"error",Toast.LENGTH_SHORT).show()
+            }
 
         }
 

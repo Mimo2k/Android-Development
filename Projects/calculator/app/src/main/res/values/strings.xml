@@ -2,8 +2,7 @@
     <string name="app_name">test</string>
 
     <!--Default string for TextView -->
-    <string name="inputDefault">1+2+3</string>
-    <string name="outputDefault">5</string>
+
 
     <!-- Button Default String's -->
 
