@@ -65,6 +65,8 @@
   1. **Calculator App**
       - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/calculator) 
       
+        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/1e00c055344c206614665c1b3015f47ad4b4c106/Resources/calculator%20app.gif">
+        
   2. **Coffee Order App**
       - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/coffeeOrder) 
 
