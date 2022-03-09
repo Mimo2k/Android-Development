@@ -59,6 +59,9 @@
         
         - [ ] [Array in Kotlin](https://github.com/Mimo2k/Android-Development/blob/6f384c3222744537b0235f4f31a0688e8e201e3d/Kotlin/Kotlin%20Intermediate/arrays%20in%20Kotlin.kt)
 
+2. **Jetpack Compose**
+  
+    - [ ] [Jetpack Intermediate](https://github.com/Mimo2k/Android-Development/tree/main/jetpack%20Compose)
   ## Projects
   
   
