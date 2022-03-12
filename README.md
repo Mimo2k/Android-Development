@@ -70,7 +70,7 @@
       
         <img  alt="GIF" src="Resources/calculator app.gif">
         
-  2. **Biz Card Portfolio**
+  2. **Biz Card Portfolio using Compose**
       - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/jetpack%20Compose/3.BizCardApp) 
 
         <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/2d77b42e94bfaa0b82efd96543dd8ad9cfacf603/Resources/bizCard.gif">
