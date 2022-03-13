@@ -70,15 +70,12 @@
       
         <img  alt="GIF" src="Resources/calculator app.gif">
         
-  2. **Coffee Order App**
-      - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/coffeeOrder) 
+  2. **Biz Card Portfolio using Compose**
+      - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/jetpack%20Compose/3.BizCardApp) 
 
-        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/b1e530f1a74676254c88e5e90a7db4e63c8146b5/Resources/Coffee%20Order.gif">
+        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/2d77b42e94bfaa0b82efd96543dd8ad9cfacf603/Resources/bizCard.gif">
   
-  3. **People Counter App**
-      - [ ] [Click to see Project Repo](https://github.com/Mimo2k/Android-Development/tree/main/Projects/CountingApp) 
-
-        <img  alt="GIF" src="https://github.com/Mimo2k/Android-Development/blob/67772c63134bb55c348c42f60098c8741bccf8b8/Resources/Counting%20App.gif">
+ 
         
   
         
