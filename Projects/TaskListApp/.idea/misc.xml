@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android Apps/TaskList/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Projects/Android Apps/TaskList/app/src/main/res/layout/fragment_list.xml" value="0.3625" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/drawable/ic_add.xml" value="0.2845" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/drawable/ic_no_data.xml" value="0.2845" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/drawable/item_background.xml" value="0.1" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/layout/fragment_add.xml" value="0.33" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/layout/fragment_list.xml" value="0.3625" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/layout/fragment_update.xml" value="0.2861111111111111" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/layout/row_layout.xml" value="0.2861111111111111" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu-v26/add_fragment_menu.xml" value="0.3614583333333333" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu-v26/list_fragment_menu.xml" value="0.18489583333333334" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu-v26/update_fragment_menu.xml" value="0.3625" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu/add_fragment_menu.xml" value="0.3625" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu/list_fragment_menu.xml" value="0.2861111111111111" />
+        <entry key="..\:/Projects/Android Apps/ToDoList/app/src/main/res/menu/update_fragment_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
